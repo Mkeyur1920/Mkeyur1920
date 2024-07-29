@@ -1,10 +1,12 @@
 ## Hi there 👋
 
-<!--
-**Mkeyur1920/Mkeyur1920** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+🚀 Master's student in Computer Science at Parul University. Passionate about AI, Machine Learning, and Open Source. 
+Always eager to learn and collaborate!
+
 
 Here are some ideas to get you started:
-
+<--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
