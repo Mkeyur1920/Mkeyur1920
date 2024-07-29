@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+###Effective languages and tools
 
 - ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 - ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
@@ -26,7 +27,6 @@ Here are some ideas to get you started:
 - ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 - ![SQL](https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=sql&logoColor=white)
 - ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
 
 ![git](https://camo.githubusercontent.com/fcafa5ebc1f5f789ae7d012a3ecd8fe7bda49516591caf7c37698f764165d880/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667)
 ![flask](https://camo.githubusercontent.com/93e24451f31be6bde3c380832f676128de66261b99c04adc42230fe9ab415733/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f706f636f6f5f666c61736b2f706f636f6f5f666c61736b2d69636f6e2e737667)
