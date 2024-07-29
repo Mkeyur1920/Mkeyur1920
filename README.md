@@ -20,6 +20,3 @@ Here are some ideas to get you started:
 
 
 
-![1](https://github.com/user-attachments/assets/22db8613-fe59-41ee-be63-40f683ff7252)
-
-
