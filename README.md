@@ -23,3 +23,5 @@ Here are some ideas to get you started:
 ![postgres](https://camo.githubusercontent.com/43d73d66ad99c72b331b7f81f2ea1ef797b1bfefe829f57457f70bba33fd0ac9/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f706f737467726573716c2f706f737467726573716c2d766572746963616c2e737667)
 ![react](https://camo.githubusercontent.com/0fdca9b191118f32724414ce362dd7cd220be4c42738f4ba46ea631f856cdea6/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f72656163746a732f72656163746a732d69636f6e2e737667)
 
+bash django docker flask gcp git jenkins kubernetes linux mysql opencv postgresql python pytorch redis tensorflow Mongo JS Grafana ReactJs Kafka Elastic Tailwindcss
+
