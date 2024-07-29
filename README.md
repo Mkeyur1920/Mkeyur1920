@@ -4,9 +4,9 @@
 🚀 Master's student in Computer Science at Parul University. Passionate about AI, Machine Learning, and Open Source. 
 Always eager to learn and collaborate!
 
-
-Here are some ideas to get you started:
 <!--
+Here are some ideas to get you started:
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -16,3 +16,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+
+![1](https://github.com/user-attachments/assets/22db8613-fe59-41ee-be63-40f683ff7252)
+
+
