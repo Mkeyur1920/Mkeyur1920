@@ -17,8 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-![1-removebg-preview](https://github.com/user-attachments/assets/6d012479-ca3b-40a0-bd96-8542916d995d)
+https://camo.githubusercontent.com/7b3bccfadc92429d2907d1c4d5f154a4153934163fa0fe4f458c4676a8dbf673/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676e755f626173682f676e755f626173682d69636f6e2e737667
 
 
 
